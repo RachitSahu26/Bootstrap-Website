@@ -1,0 +1,143 @@
+@media(max-width:767px) {
+    html {
+        overflow-x: hidden;
+
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    #BannerText h1 {
+        text-align: center;
+
+
+    }
+
+    #banner-btn {
+        margin-left: 250px;
+    }
+
+    .h-100 {
+
+        margin-left: 103px;
+        width: 415px;
+    }
+
+    #img {
+        margin-left: 108px;
+    }
+
+
+
+    #mid {
+        margin-left: -144px;
+    }
+
+
+
+}
+
+@media(max-width:320px) {
+    #Contact-btn {
+        margin-left: 13px;
+    }
+    #BannerText h1 {
+        font-size: 50px;
+    }
+
+
+    #banner-btn {
+        margin-left: 33px;
+    }
+
+    #BannerText p {
+        margin-left: 18px;
+    }
+
+    #img {
+        margin-left: 2px;
+        width: 263px;
+        height: 263px;
+    }
+
+
+    #mid {
+        margin-left: -98px;
+    }
+
+    #travel-pic-1 {
+        padding-left: 10px;
+    }
+
+    #question-area-img {
+        height: 258px;
+        width: 254px;
+        margin-top: 10px;
+        margin-left: -102px;
+    }
+
+    .card-img-top {
+
+        width: 255px;
+        height: 255px;
+        margin-top: 34px;
+        margin-left: 13px;
+    }
+
+    .h-100 {
+        margin-left: -82px;
+        width: 282px;
+    }
+
+
+    #form-img-area {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #img-fluit {
+        width: 270px;
+        height: 233px;
+    }
+
+
+    .mb-head1 {
+        font-size: 42px;
+        /* margin-left: 33px; */
+    }
+
+    .form-control {
+        width: 263px;
+    }
+
+   #Submit-btn{
+        margin-left: 0px;
+        width: 33px;
+        padding: 10px 132px;
+        background-color: black;
+    }
+
+
+
+
+
+
+    #footer{
+        display: flex;
+        flex-direction: column;
+
+            padding: 10px 10px;
+            margin-top: 73px;
+            background-color: rgb(213, 213, 213);
+        list-style-type: none;
+    }
+    .My-log-heading{
+font-size: 10px;
+    }
+
+    #Quick-links-main{
+        margin-left: 0px;
+        margin-top:13px;
+    }
+}
